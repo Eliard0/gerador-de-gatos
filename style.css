@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.img{
+    text-align:center;
+}
+.showcase{
+    width: 90%;
+    margin-top: 20px;
+}
